@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishadi-jayasingha&label=Profile%20views&color=0e75b6&style=flat" alt="nishadi-jayasingha" /> </p>
-
+---
 - 🌱 I’m currently learning **𝗛𝗶𝗴𝗵𝗲𝗿 𝗡𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗗𝗶𝗽𝗹𝗼𝗺𝗮 in Software Engineering**
 
 - 💬 Ask me about anything **I am happy to help 😄**
