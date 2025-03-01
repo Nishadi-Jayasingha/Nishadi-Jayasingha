@@ -5,7 +5,6 @@
 <p align="left"> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width =180px></picture> </p>
 
 
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishadi-jayasingha&label=Profile%20views&color=0e75b6&style=flat" alt="nishadi-jayasingha" /> </p>
 
